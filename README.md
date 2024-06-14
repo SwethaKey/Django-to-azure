@@ -10,3 +10,6 @@ https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-p
 When you managed to get a simple script to upload and download files to your storage, you can try to create a simple website (Django) that can allows user to upload and download files via a website with some visuals. 
  
 Good luck 
+
+https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-upload-python
+https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-download-python
