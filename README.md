@@ -12,4 +12,6 @@ When you managed to get a simple script to upload and download files to your sto
 Good luck 
 
 https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-upload-python
+
+
 https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-download-python
