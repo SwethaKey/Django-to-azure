@@ -1,4 +1,5 @@
 # upload_download_files_azurestorage_django
+create a simple website (Django) that can allows user to upload and download files to your storage via a website with some visuals.
 
 # Installation
   pip install azure-storage-blob
