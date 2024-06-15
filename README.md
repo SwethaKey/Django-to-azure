@@ -1,4 +1,4 @@
-# Django-to-azure
+# upload_download_files_azurestorage_django
 
 # Installation
   pip install azure-storage-blob
